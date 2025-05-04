@@ -4,8 +4,5 @@ module.exports = {
 	'lang-coffeescript': 'addon',
 	'lang-lua': 'addon',
 	'babylon': 'opt-in',
-	//'dehydrate': 'bundle',
-	//'jit': 'bundle',
-	//'blockly': 'bundle',
 	'pointers': 'addon'
 };
